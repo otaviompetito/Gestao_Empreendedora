@@ -27,30 +27,33 @@
 \contentsline {section}{\numberline {3.1}Caracteriza\IeC {\c c}\IeC {\~a}o e an\IeC {\'a}lise do mercado}{18}{section.3.1}
 \contentsline {section}{\numberline {3.2}Clientes}{20}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Concorr\IeC {\^e}ncia}{20}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Fornecedores e prestadores de servi\IeC {\c c}o}{21}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Posicionamento}{21}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Segmenta\IeC {\c c}\IeC {\~a}o do mercado}{21}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Posicionamento estrat\IeC {\'e}gico}{23}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Estrat\IeC {\'e}gias de marketing}{24}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Pre\IeC {\c c}o}{24}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Pra\IeC {\c c}a}{25}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Promo\IeC {\c c}\IeC {\~a}o}{25}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Relacionamento com os clientes}{26}{subsection.3.4.4}
-\contentsline {section}{\numberline {3.5}For\IeC {\c c}as de Porter}{27}{section.3.5}
-\contentsline {section}{\numberline {3.6}An\IeC {\'a}lise SWOT}{28}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Strenghts}{29}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Weaknesses}{29}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Opportunities}{30}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}Threats}{30}{subsection.3.6.4}
+\contentsline {subsubsection}{\numberline {3.2.1.1}GomSpace}{22}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}CubeSatKit}{22}{subsubsection.3.2.1.2}
+\contentsline {subsubsection}{\numberline {3.2.1.3}CubeSatShop}{23}{subsubsection.3.2.1.3}
+\contentsline {subsection}{\numberline {3.2.2}Fornecedores e prestadores de servi\IeC {\c c}o}{23}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Posicionamento}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Segmenta\IeC {\c c}\IeC {\~a}o do mercado}{24}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Posicionamento estrat\IeC {\'e}gico}{26}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Estrat\IeC {\'e}gias de marketing}{26}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Pre\IeC {\c c}o}{27}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Pra\IeC {\c c}a}{28}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Promo\IeC {\c c}\IeC {\~a}o}{28}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Relacionamento com os clientes}{29}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}For\IeC {\c c}as de Porter}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}An\IeC {\'a}lise SWOT}{30}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Strenghts}{31}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Weaknesses}{31}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Opportunities}{32}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Threats}{32}{subsection.3.6.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}}{31}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}}{33}{chapter.4}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{33}{section*.2}
+\contentsline {part}{\uppercase {Anexos}}{35}{section*.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {\textit {Business Model} Canvas da CuboBrasil}}{34}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {\textit {Business Model} Canvas da CuboBrasil}}{36}{appendix.anexochapback.1}
 \vspace {\cftbeforechapterskip }
