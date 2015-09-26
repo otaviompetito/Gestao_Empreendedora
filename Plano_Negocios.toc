@@ -22,51 +22,51 @@
 \contentsline {section}{\numberline {2.2}Vis\IeC {\~a}o}{16}{section.2.2}
 \contentsline {section}{\numberline {2.3}Valores}{16}{section.2.3}
 \contentsline {section}{\numberline {2.4}Estrutura Organizacional}{16}{section.2.4}
-\contentsline {section}{\numberline {2.5}Descri\IeC {\c c}\IeC {\~a}o de cargos}{17}{section.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Plano de marketing e vendas}}{20}{chapter.3}
-\contentsline {section}{\numberline {3.1}Caracteriza\IeC {\c c}\IeC {\~a}o e an\IeC {\'a}lise do mercado}{20}{section.3.1}
-\contentsline {section}{\numberline {3.2}Clientes}{22}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Concorr\IeC {\^e}ncia}{22}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}GomSpace}{24}{subsubsection.3.2.1.1}
-\contentsline {subsubsection}{\numberline {3.2.1.2}CubeSatKit}{24}{subsubsection.3.2.1.2}
-\contentsline {subsubsection}{\numberline {3.2.1.3}CubeSatShop}{25}{subsubsection.3.2.1.3}
-\contentsline {subsection}{\numberline {3.2.2}Fornecedores e prestadores de servi\IeC {\c c}o}{25}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Posicionamento}{26}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Segmenta\IeC {\c c}\IeC {\~a}o do mercado}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Posicionamento estrat\IeC {\'e}gico}{28}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Estrat\IeC {\'e}gias de marketing}{28}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Pre\IeC {\c c}o}{29}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Pra\IeC {\c c}a}{30}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Promo\IeC {\c c}\IeC {\~a}o}{30}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Relacionamento com os clientes}{31}{subsection.3.4.4}
-\contentsline {section}{\numberline {3.5}For\IeC {\c c}as de Porter}{31}{section.3.5}
-\contentsline {section}{\numberline {3.6}An\IeC {\'a}lise SWOT}{32}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Strenghts}{33}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Weaknesses}{33}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Opportunities}{34}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}Threats}{34}{subsection.3.6.4}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Plano de marketing e vendas}}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Caracteriza\IeC {\c c}\IeC {\~a}o e an\IeC {\'a}lise do mercado}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Clientes}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Concorr\IeC {\^e}ncia}{20}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}GomSpace}{22}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}CubeSatKit}{22}{subsubsection.3.2.1.2}
+\contentsline {subsubsection}{\numberline {3.2.1.3}CubeSatShop}{23}{subsubsection.3.2.1.3}
+\contentsline {subsection}{\numberline {3.2.2}Fornecedores e prestadores de servi\IeC {\c c}o}{23}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Posicionamento}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Segmenta\IeC {\c c}\IeC {\~a}o do mercado}{24}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Posicionamento estrat\IeC {\'e}gico}{26}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Estrat\IeC {\'e}gias de marketing}{26}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Pre\IeC {\c c}o}{27}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Pra\IeC {\c c}a}{28}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Promo\IeC {\c c}\IeC {\~a}o}{28}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Relacionamento com os clientes}{29}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}For\IeC {\c c}as de Porter}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}An\IeC {\'a}lise SWOT}{30}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Strenghts}{31}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Weaknesses}{31}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Opportunities}{32}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Threats}{32}{subsection.3.6.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Plano Operacional}}{35}{chapter.4}
-\contentsline {section}{\numberline {4.1}Produtos e servi\IeC {\c c}os}{35}{section.4.1}
-\contentsline {section}{\numberline {4.2}Unidade operacional}{37}{section.4.2}
-\contentsline {section}{\numberline {4.3}Tecnologia e processos}{38}{section.4.3}
-\contentsline {section}{\numberline {4.4}Descri\IeC {\c c}\IeC {\~a}o dos processos e opera\IeC {\c c}\IeC {\~o}es}{38}{section.4.4}
-\contentsline {section}{\numberline {4.5}Arranjo f\IeC {\'\i }sico e recursos produtivos}{39}{section.4.5}
-\contentsline {section}{\numberline {4.6}Composi\IeC {\c c}\IeC {\~a}o dos custos e pre\IeC {\c c}os}{39}{section.4.6}
-\contentsline {section}{\numberline {4.7}Benef\IeC {\'\i }cios e vantagens competitivas}{39}{section.4.7}
-\contentsline {section}{\numberline {4.8}Propriedade intelectual}{39}{section.4.8}
-\contentsline {section}{\numberline {4.9}Parcerias e alian\IeC {\c c}as operacionais}{40}{section.4.9}
-\contentsline {section}{\numberline {4.10}Aspectos ambientais e de sustentabilidade}{40}{section.4.10}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Plano Operacional}}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Produtos e servi\IeC {\c c}os}{33}{section.4.1}
+\contentsline {section}{\numberline {4.2}Unidade operacional}{35}{section.4.2}
+\contentsline {section}{\numberline {4.3}Tecnologia e processos}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}Descri\IeC {\c c}\IeC {\~a}o dos processos e opera\IeC {\c c}\IeC {\~o}es}{36}{section.4.4}
+\contentsline {section}{\numberline {4.5}Arranjo f\IeC {\'\i }sico e recursos produtivos}{37}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Descri\IeC {\c c}\IeC {\~a}o dos cargos}{38}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Composi\IeC {\c c}\IeC {\~a}o dos custos e pre\IeC {\c c}os}{40}{section.4.6}
+\contentsline {section}{\numberline {4.7}Benef\IeC {\'\i }cios e vantagens competitivas}{42}{section.4.7}
+\contentsline {section}{\numberline {4.8}Propriedade intelectual}{42}{section.4.8}
+\contentsline {section}{\numberline {4.9}Parcerias e alian\IeC {\c c}as operacionais}{43}{section.4.9}
+\contentsline {section}{\numberline {4.10}Aspectos ambientais e de sustentabilidade}{43}{section.4.10}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}}{41}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}}{44}{chapter.5}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{43}{section*.2}
+\contentsline {part}{\uppercase {Anexos}}{46}{section*.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {\textit {Business Model} Canvas da CuboBrasil}}{44}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {\textit {Business Model} Canvas da CuboBrasil}}{47}{appendix.anexochapback.1}
 \vspace {\cftbeforechapterskip }
