@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.3)  26 SEP 2015 12:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.3)  26 NOV 2015 23:22
 entering extended mode
 **Plano_Negocios.tex
 (D:\GitHub\Gestao_Empreendedora\Plano_Negocios.tex
@@ -1119,338 +1119,404 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 67.
+(Font)              <14.4> on input line 73.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 71.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 77.
 ) [6] [7
 
 
 ] [8] [9]
-[10] [11] [12] [13] [14] [15
+[10] [11] [12] [13] [14] [15] [16] [17
 
 ]
-<./figs/Figura_10.png, id=267, 505.89pt x 144.54pt>
+<./figs/Figura_10.png, id=309, 505.89pt x 144.54pt>
 File: ./figs/Figura_10.png Graphic file (type png)
  <use ./figs/Figura_10.png>
-Package pdftex.def Info: ./figs/Figura_10.png used on input line 475.
+Package pdftex.def Info: ./figs/Figura_10.png used on input line 506.
 (pdftex.def)             Requested size: 455.0pt x 130.00317pt.
 
-[16] [17 <D:/GitHub/Gestao_Empreendedora/figs/Figura_10.png>]
-<./figs/Figura_01a.png, id=276, 589.4522pt x 193.47281pt>
+[18] [19 <D:/GitHub/Gestao_Empreendedora/figs/Figura_10.png>]
+<./figs/Figura_01a.png, id=319, 589.4522pt x 193.47281pt>
 File: ./figs/Figura_01a.png Graphic file (type png)
 
 <use ./figs/Figura_01a.png>
-Package pdftex.def Info: ./figs/Figura_01a.png used on input line 495.
+Package pdftex.def Info: ./figs/Figura_01a.png used on input line 526.
 (pdftex.def)             Requested size: 364.00139pt x 119.4766pt.
- [18
+ [20
 
  <D:/GitHub/Gestao_Empreendedora/figs/Figura_01a.png>] <./figs/Figura_08.png, i
-d=282, 315.42844pt x 394.47375pt>
+d=324, 315.42844pt x 394.47375pt>
 File: ./figs/Figura_08.png Graphic file (type png)
 
 <use ./figs/Figura_08.png>
-Package pdftex.def Info: ./figs/Figura_08.png used on input line 515.
+Package pdftex.def Info: ./figs/Figura_08.png used on input line 546.
 (pdftex.def)             Requested size: 364.00139pt x 455.2484pt.
- [19 <D:/GitHub/Gestao_Empreendedora/figs/Figura_08.png>]
-Underfull \hbox (badness 3460) in paragraph at lines 555--555
+ [21 <D:/GitHub/Gestao_Empreendedora/figs/Figura_08.png>]
+Underfull \hbox (badness 3460) in paragraph at lines 586--586
 []|\T1/lmr/bx/n/12 Condições de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
 []|\T1/lmr/m/n/12 (+20) Sem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--555
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
 []|\T1/lmr/m/n/12 (+20) Sem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 588--588
 []|\T1/lmr/m/n/12 (+20) São Paulo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 588--588
 []|\T1/lmr/m/n/12 (+20) Aalborg
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
+Underfull \hbox (badness 10000) in paragraph at lines 588--589
 []|\T1/lmr/m/n/12 (+20) Delft
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 590--590
 []|\T1/lmr/m/n/12 (+20) Internet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 590--590
 []|\T1/lmr/m/n/12 (+20) Internet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 590--590
 []|\T1/lmr/m/n/12 (+20) Internet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--560
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
 []|\T1/lmr/m/n/12 (+20) Internet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 []|\T1/lmr/bx/n/12 Serviços
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 []|\T1/lmr/m/n/12 (+20) Treinamento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 \T1/lmr/m/n/12 (+20) Cursos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 \T1/lmr/m/n/12 (+20) Manutenção
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 \T1/lmr/m/n/12 (+20) Assistência
  []
 
-[20]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 579.
+[22]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 610.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 579.
- [21] [22]
-Overfull \hbox (5.0426pt too wide) in paragraph at lines 713--714
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 610.
+ [23] [24]
+Overfull \hbox (5.0426pt too wide) in paragraph at lines 744--745
 []|\T1/lmr/m/n/12 (-20) AzurSpace| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
 []|\T1/lmr/m/n/12 (+20) Células
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--716
+Underfull \hbox (badness 10000) in paragraph at lines 746--747
 []|\T1/lmr/m/n/12 (+20) Células
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 750--750
 []|\T1/lmr/bx/n/12 Condição
  []
 
 
-Overfull \hbox (3.87244pt too wide) in paragraph at lines 719--719
+Overfull \hbox (3.87244pt too wide) in paragraph at lines 750--750
 []|\T1/lmr/m/n/12 (-20) Facilitado| 
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 721--722
+Underfull \hbox (badness 1132) in paragraph at lines 752--753
 []|\T1/lmr/m/n/12 (+20) 10 se-ma-
  []
 
 
-Overfull \hbox (1.73206pt too wide) in paragraph at lines 723--723
+Overfull \hbox (1.73206pt too wide) in paragraph at lines 754--754
 []|\T1/lmr/bx/n/12 Localização| 
  []
 
 
-Overfull \hbox (2.48451pt too wide) in paragraph at lines 723--724
+Overfull \hbox (2.48451pt too wide) in paragraph at lines 754--755
 []|\T1/lmr/m/n/12 (-20) Alemanha| 
  []
 
-[23]
-Underfull \hbox (badness 2269) in paragraph at lines 760--761
+[25]
+Underfull \hbox (badness 2269) in paragraph at lines 791--792
 \T1/lmr/m/n/12 (+20) do fun-ci-o-na-mento do sis-tema,
  []
 
-[24] <./figs/Figura_04.png, id=311, 182.93344pt x 178.41656pt>
+[26] <./figs/Figura_04.png, id=353, 182.93344pt x 178.41656pt>
 File: ./figs/Figura_04.png Graphic file (type png)
 
 <use ./figs/Figura_04.png>
-Package pdftex.def Info: ./figs/Figura_04.png used on input line 779.
+Package pdftex.def Info: ./figs/Figura_04.png used on input line 810.
 (pdftex.def)             Requested size: 227.5pt x 221.89577pt.
- [25 <D:/GitHub/Gestao_Empreendedora/figs/Figura_04.png>] [26] <./figs/Grafico_
-01.png, id=320, 581.92406pt x 221.32687pt>
+ [27 <D:/GitHub/Gestao_Empreendedora/figs/Figura_04.png>] [28] <./figs/Grafico_
+01.png, id=362, 581.92406pt x 221.32687pt>
 File: ./figs/Grafico_01.png Graphic file (type png)
 
 <use ./figs/Grafico_01.png>
-Package pdftex.def Info: ./figs/Grafico_01.png used on input line 819.
+Package pdftex.def Info: ./figs/Grafico_01.png used on input line 850.
 (pdftex.def)             Requested size: 455.0pt x 173.0564pt.
 
-<./figs/Figura_05.png, id=321, 439.6425pt x 205.5178pt>
+<./figs/Figura_05.png, id=363, 439.6425pt x 205.5178pt>
 File: ./figs/Figura_05.png Graphic file (type png)
 
 <use ./figs/Figura_05.png>
-Package pdftex.def Info: ./figs/Figura_05.png used on input line 833.
+Package pdftex.def Info: ./figs/Figura_05.png used on input line 864.
 (pdftex.def)             Requested size: 455.0pt x 212.70175pt.
- [27 <D:/GitHub/Gestao_Empreendedora/figs/Grafico_01.png> <D:/GitHub/Gestao_Emp
+ [29 <D:/GitHub/Gestao_Empreendedora/figs/Grafico_01.png> <D:/GitHub/Gestao_Emp
 reendedora/figs/Figura_05.png>]
-<./figs/Grafico_02.png, id=326, 548.80031pt x 199.49532pt>
+<./figs/Grafico_02.png, id=368, 548.80031pt x 199.49532pt>
 File: ./figs/Grafico_02.png Graphic file (type png)
 
 <use ./figs/Grafico_02.png>
-Package pdftex.def Info: ./figs/Grafico_02.png used on input line 843.
+Package pdftex.def Info: ./figs/Grafico_02.png used on input line 874.
 (pdftex.def)             Requested size: 455.0pt x 165.40146pt.
- [28 <D:/GitHub/Gestao_Empreendedora/figs/Grafico_02.png>] [29] <./figs/PORTER.
-png, id=335, 496.85625pt x 374.14781pt>
+ [30 <D:/GitHub/Gestao_Empreendedora/figs/Grafico_02.png>] [31] <./figs/PORTER.
+png, id=378, 496.85625pt x 374.14781pt>
 File: ./figs/PORTER.png Graphic file (type png)
 
 <use ./figs/PORTER.png>
-Package pdftex.def Info: ./figs/PORTER.png used on input line 892.
+Package pdftex.def Info: ./figs/PORTER.png used on input line 923.
 (pdftex.def)             Requested size: 455.0pt x 342.63304pt.
- <./figs/SWOT.png, id=336, 425.33907pt x 256.70906pt>
+ <./figs/SWOT.png, id=379, 425.33907pt x 256.70906pt>
 File: ./figs/SWOT.png Graphic file (type png)
 
 <use ./figs/SWOT.png>
-Package pdftex.def Info: ./figs/SWOT.png used on input line 906.
+Package pdftex.def Info: ./figs/SWOT.png used on input line 937.
 (pdftex.def)             Requested size: 455.0pt x 274.62505pt.
- [30 <D:/GitHub/Gestao_Empreendedora/figs/PORTER.png>]
+ [32 <D:/GitHub/Gestao_Empreendedora/figs/PORTER.png>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 913.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 944.
 
-[31 <D:/GitHub/Gestao_Empreendedora/figs/SWOT.png>] [32]
-<./figs/produtos.png, id=352, 191.21437pt x 411.03563pt>
+[33 <D:/GitHub/Gestao_Empreendedora/figs/SWOT.png>] [34]
+<./figs/produtos.png, id=394, 191.21437pt x 411.03563pt>
 File: ./figs/produtos.png Graphic file (type png)
 
 <use ./figs/produtos.png>
-Package pdftex.def Info: ./figs/produtos.png used on input line 975.
+Package pdftex.def Info: ./figs/produtos.png used on input line 1006.
 (pdftex.def)             Requested size: 136.50139pt x 293.43666pt.
- [33
+ [35
 
 ]
-<./figs/configuracao.png, id=359, 447.17062pt x 239.39438pt>
+<./figs/configuracao.png, id=401, 447.17062pt x 239.39438pt>
 File: ./figs/configuracao.png Graphic file (type png)
 
 <use ./figs/configuracao.png>
-Package pdftex.def Info: ./figs/configuracao.png used on input line 993.
+Package pdftex.def Info: ./figs/configuracao.png used on input line 1024.
 (pdftex.def)             Requested size: 250.25139pt x 133.9759pt.
- [34 <D:/GitHub/Gestao_Empreendedora/figs/produtos.png> <D:/GitHub/Gestao_Empre
-endedora/figs/configuracao.png>] [35]
-<./figs/X.png, id=372, 449.42906pt x 176.91093pt>
+ [36 <D:/GitHub/Gestao_Empreendedora/figs/produtos.png> <D:/GitHub/Gestao_Empre
+endedora/figs/configuracao.png>] [37]
+<./figs/X.png, id=415, 449.42906pt x 176.91093pt>
 File: ./figs/X.png Graphic file (type png)
  <use ./figs/X.png>
-Package pdftex.def Info: ./figs/X.png used on input line 1039.
+Package pdftex.def Info: ./figs/X.png used on input line 1070.
 (pdftex.def)             Requested size: 455.0pt x 179.11053pt.
 
-<./figs/X-1.png, id=373, 344.78813pt x 163.3603pt>
+<./figs/X-1.png, id=416, 344.78813pt x 163.3603pt>
 File: ./figs/X-1.png Graphic file (type png)
  <use ./figs/X-1.png>
-Package pdftex.def Info: ./figs/X-1.png used on input line 1056.
+Package pdftex.def Info: ./figs/X-1.png used on input line 1087.
 (pdftex.def)             Requested size: 364.00139pt x 172.46562pt.
 
-[36 <D:/GitHub/Gestao_Empreendedora/figs/X.png>]
-<./figs/layout.png, id=380, 499.8675pt x 405.01312pt>
+[38 <D:/GitHub/Gestao_Empreendedora/figs/X.png>]
+<./figs/layout.png, id=422, 499.8675pt x 405.01312pt>
 File: ./figs/layout.png Graphic file (type png)
  <use ./figs/layout.png>
-Package pdftex.def Info: ./figs/layout.png used on input line 1073.
+Package pdftex.def Info: ./figs/layout.png used on input line 1104.
 (pdftex.def)             Requested size: 318.49861pt x 258.07037pt.
 
-[37 <D:/GitHub/Gestao_Empreendedora/figs/X-1.png> <D:/GitHub/Gestao_Empreendedo
-ra/figs/layout.png>] [38] [39]
-Overfull \hbox (2.60757pt too wide) in paragraph at lines 1212--1212
+[39 <D:/GitHub/Gestao_Empreendedora/figs/X-1.png> <D:/GitHub/Gestao_Empreendedo
+ra/figs/layout.png>] [40] [41]
+Overfull \hbox (2.60757pt too wide) in paragraph at lines 1243--1243
 []|\T1/lmr/bx/n/12 Quantidade| 
  []
 
-[40]
-Overfull \hbox (2.60757pt too wide) in paragraph at lines 1230--1230
+[42]
+Overfull \hbox (2.60757pt too wide) in paragraph at lines 1261--1261
 []|\T1/lmr/bx/n/12 Quantidade| 
  []
 
-[41] [42] [43]
-Underfull \hbox (badness 1728) in paragraph at lines 1330--1331
+[43] [44] [45] <./figs/inv_inicial.png, id=453, 380.92313pt x 824.32968pt>
+File: ./figs/inv_inicial.png Graphic file (type png)
+
+<use ./figs/inv_inicial.png>
+Package pdftex.def Info: ./figs/inv_inicial.png used on input line 1345.
+(pdftex.def)             Requested size: 250.25139pt x 541.54362pt.
+ [46
+
+]
+<./figs/emprestimo.png, id=459, 478.78876pt x 307.90031pt>
+File: ./figs/emprestimo.png Graphic file (type png)
+
+<use ./figs/emprestimo.png>
+Package pdftex.def Info: ./figs/emprestimo.png used on input line 1359.
+(pdftex.def)             Requested size: 364.00139pt x 234.08183pt.
+ [47 <D:/GitHub/Gestao_Empreendedora/figs/inv_inicial.png>] <./figs/recuroso_hu
+manos.png, id=466, 495.35063pt x 283.81032pt>
+File: ./figs/recuroso_humanos.png Graphic file (type png)
+
+<use ./figs/recuroso_humanos.png>
+Package pdftex.def Info: ./figs/recuroso_humanos.png used on input line 1375.
+(pdftex.def)             Requested size: 364.00139pt x 208.5526pt.
+
+<./figs/operacao.png, id=468, 534.49687pt x 358.33875pt>
+File: ./figs/operacao.png Graphic file (type png)
+
+<use ./figs/operacao.png>
+Package pdftex.def Info: ./figs/operacao.png used on input line 1388.
+(pdftex.def)             Requested size: 364.00139pt x 244.0444pt.
+ [48 <D:/GitHub/Gestao_Empreendedora/figs/emprestimo.png> <D:/GitHub/Gestao_Emp
+reendedora/figs/recuroso_humanos.png>]
+<./figs/produto1.png, id=476, 355.3275pt x 912.40875pt>
+File: ./figs/produto1.png Graphic file (type png)
+
+<use ./figs/produto1.png>
+Package pdftex.def Info: ./figs/produto1.png used on input line 1402.
+(pdftex.def)             Requested size: 204.74861pt x 525.77258pt.
+ [49 <D:/GitHub/Gestao_Empreendedora/figs/operacao.png>] <./figs/produto2.png, 
+id=481, 355.3275pt x 590.205pt>
+File: ./figs/produto2.png Graphic file (type png)
+
+<use ./figs/produto2.png>
+Package pdftex.def Info: ./figs/produto2.png used on input line 1416.
+(pdftex.def)             Requested size: 273.00278pt x 453.47762pt.
+ [50 <D:/GitHub/Gestao_Empreendedora/figs/produto1.png>] <./figs/vendas.png, id
+=487, 536.0025pt x 391.4625pt>
+File: ./figs/vendas.png Graphic file (type png)
+
+<use ./figs/vendas.png>
+Package pdftex.def Info: ./figs/vendas.png used on input line 1430.
+(pdftex.def)             Requested size: 364.00139pt x 265.83855pt.
+ [51 <D:/GitHub/Gestao_Empreendedora/figs/produto2.png>] <./figs/simples.png, i
+d=493, 382.42876pt x 463.7325pt>
+File: ./figs/simples.png Graphic file (type png)
+
+<use ./figs/simples.png>
+Package pdftex.def Info: ./figs/simples.png used on input line 1444.
+(pdftex.def)             Requested size: 364.00139pt x 441.40663pt.
+ [52 <D:/GitHub/Gestao_Empreendedora/figs/vendas.png>]
+<./figs/resultados.png, id=499, 424.58624pt x 752.8125pt>
+File: ./figs/resultados.png Graphic file (type png)
+
+<use ./figs/resultados.png>
+Package pdftex.def Info: ./figs/resultados.png used on input line 1458.
+(pdftex.def)             Requested size: 273.00278pt x 484.07277pt.
+ [53 <D:/GitHub/Gestao_Empreendedora/figs/simples.png>] [54 <D:/GitHub/Gestao_E
+mpreendedora/figs/resultados.png>] [55]
+Underfull \hbox (badness 1728) in paragraph at lines 1497--1498
 []\T1/lmr/m/n/12 (+20) APRENDER. Im-ple-men-ta-ção do pla-ne-ja-mento es-tra-té
 -gico. Dis-po-ní-vel em:
  []
 
 
-Overfull \hbox (0.16426pt too wide) in paragraph at lines 1332--1333
+Overfull \hbox (0.16426pt too wide) in paragraph at lines 1499--1500
 []\T1/lmr/m/n/12 (-20) GUIA DO ES-TU-DANTE. Mar-ke-ting. Dis-po-ní-vel em: <htt
 p://guiadoestudante.abril.
  []
 
-[44
+[56
 
 ]
-Overfull \hbox (3.4953pt too wide) in paragraph at lines 1346--1347
+Overfull \hbox (3.4953pt too wide) in paragraph at lines 1513--1514
 \T1/lmr/m/n/12 (-20) cia da or-ga-ni-za-ção de acordo. Dis-po-ní-vel em: <http:
 //www.administradores.com.br/artigos/ 
  []
 
 
-Overfull \hbox (1.84027pt too wide) in paragraph at lines 1346--1347
+Overfull \hbox (1.84027pt too wide) in paragraph at lines 1513--1514
 \T1/lmr/m/n/12 (-20) marketing/estrutura-organizacional-influencia-da-estrutura
 -na-eficiencia-da-organizacao-de-
  []
 
 
-Overfull \hbox (27.85017pt too wide) in paragraph at lines 1348--1349
+Overfull \hbox (27.85017pt too wide) in paragraph at lines 1515--1516
 \T1/lmr/m/n/12 (-20) <http://exame.abril.com.br/carreira/noticias/quanto-ganham
 -os-engenheiros-no-brasil>. Acesso
  []
 
 
-Overfull \hbox (30.92303pt too wide) in paragraph at lines 1352--1353
+Overfull \hbox (30.92303pt too wide) in paragraph at lines 1519--1520
 []\T1/lmr/m/n/12 (-20) ESAG JR. Plano Ope-ra-ci-o-nal. Dis-po-ní-vel em: <http:
 //esagjr.com.br/plano-operacional/>.
  []
 
-[45]
+[57]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 1365.
+(hyperref)                removing `\uppercase' on input line 1532.
 
-[46
+[58
 
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24.88> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 1367.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 1534.
 
- <./figs/Anexo_01.png, id=422, 946.28531pt x 497.60907pt>
+ <./figs/Anexo_01.png, id=525, 946.28531pt x 497.60907pt>
 File: ./figs/Anexo_01.png Graphic file (type png)
 
 <use ./figs/Anexo_01.png>
-Package pdftex.def Info: ./figs/Anexo_01.png used on input line 1373.
+Package pdftex.def Info: ./figs/Anexo_01.png used on input line 1540.
 (pdftex.def)             Requested size: 455.0pt x 239.25964pt.
 
 No file Plano_Negocios.ind.
 
 AED: lastpage setting LastPage
-[47
+[59
 
  <D:/GitHub/Gestao_Empreendedora/figs/Anexo_01.png>]
 \tf@lof=\write5
 \tf@lot=\write6
 \tf@toc=\write7
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1400.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1400.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1567.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1567.
 
 (D:\GitHub\Gestao_Empreendedora\Plano_Negocios.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1400.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1400.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1567.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1567.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1567.
  ) 
 Here is how much of TeX's memory you used:
- 13709 strings out of 493921
- 203368 string characters out of 3144874
- 456999 words of memory out of 3000000
- 16460 multiletter control sequences out of 15000+200000
+ 13801 strings out of 493921
+ 204835 string characters out of 3144874
+ 456676 words of memory out of 3000000
+ 16511 multiletter control sequences out of 15000+200000
  103707 words of font info for 148 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  39i,13n,35p,2288b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1469,9 +1535,9 @@ mssbo10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.p
 fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Plano_Negocios.pdf (48 pages, 1515958 bytes).
+Output written on Plano_Negocios.pdf (60 pages, 1816755 bytes).
 PDF statistics:
- 688 PDF objects out of 1000 (max. 8388607)
- 154 named destinations out of 1000 (max. 500000)
- 34844 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 812 PDF objects out of 1000 (max. 8388607)
+ 186 named destinations out of 1000 (max. 500000)
+ 34929 words of extra memory for PDF output out of 35830 (max. 10000000)
 
